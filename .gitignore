@@ -39,3 +39,4 @@ sw.js
 
 # ts 
 tsconfig.tsbuildinfo
+.vercel
